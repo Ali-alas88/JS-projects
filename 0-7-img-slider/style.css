@@ -41,6 +41,7 @@ main {
 .img-container {
     display: flex;
     width: 100%;
+    transition: all 0.3s ease-in-out;
 }
 
 .btn {
