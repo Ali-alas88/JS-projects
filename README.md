@@ -1,1 +1,1 @@
-Embarking on my daily JavaScript journey, I, Coder-Ali, pledge to craft a fresh project each day, weaving together the power of HTML and CSS. Let's inspire one another to tackle our coding challenges head-on and unleash the full potential of JavaScript creativity!
+Embarking on my daily JavaScript journey, I am  Coder-Ali, pledge to craft a fresh project each day, weaving together the power of HTML and CSS. Let's inspire one another to tackle our coding challenges head-on and unleash the full potential of JavaScript creativity!
